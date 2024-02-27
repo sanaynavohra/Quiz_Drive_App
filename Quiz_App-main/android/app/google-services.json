@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "804717760342",
+    "project_id": "recruitment-drive-266b1",
+    "storage_bucket": "recruitment-drive-266b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:804717760342:android:6f71b669267b55594990f7",
+        "android_client_info": {
+          "package_name": "com.example.quiz_drive"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "804717760342-sffjghf3r6ufrghvp2uf91k9hnpf3sc2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.quiz_drive",
+            "certificate_hash": "947e6fba2642b91b6785d993320129a9118cd681"
+          }
+        },
+        {
+          "client_id": "804717760342-7m8bv78s81csp292t04hecebijkp8k82.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDElvhgKcRjX0zta4R7GtBZCH8jWJna7sY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "804717760342-7m8bv78s81csp292t04hecebijkp8k82.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
